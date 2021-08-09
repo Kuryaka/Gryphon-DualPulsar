@@ -12,6 +12,6 @@ Picatinny rail has been lengthened to fit the dual stage setup, with clearance h
 
 Just as with the original Gryphon and its derivatives, this is free to use and modify. 
 
-Gryphon on Github: https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster
-Takedown Gryphon: https://www.thingiverse.com/thing:4722270
+Gryphon on Github: https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster  
+Takedown Gryphon: https://www.thingiverse.com/thing:4722270  
 F3D Files for Gryphon: https://www.thingiverse.com/thing:4846062
